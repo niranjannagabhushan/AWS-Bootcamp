@@ -1,0 +1,31 @@
+ Face ID: 5a8bdfaf-fe88-4568-af57-89a2e3d61c74
+ Location: {'Width': 0.17224502563476562, 'Height': 0.41363805532455444, 'Left': 0.4763216972351074, 'Top': 0.1433974951505661}
+Faces not indexed:
+
+(base) E:\Reko-master\Searching Faces in a Collection\Adding Faces to a Collection 5>
+
+
+Faces in collection CollectionOne
+{'FaceId': '5a8bdfaf-fe88-4568-af57-89a2e3d61c74', 'BoundingBox': {'Width': 0.17224499583244324, 'Height': 0.41363799571990967, 'Left': 0.4763219952583313, 'Top': 0.1433970034122467}, 'ImageId': 'f08d7482-bafa-379b-a745-3b510e47735a', 'ExternalImageId': 'mod1.jpeg', 'Confidence': 99.99380493164062, 'IndexFacesModelVersion': '6.0'}
+
+
+
+Faces indexed:
+ Face ID: 5d26c54d-261a-4d69-b820-cd5b0bc94c34
+ Location: {'Width': 0.1848602294921875, 'Height': 0.3650467097759247, 'Left': 0.4467265009880066, 'Top': 0.16588731110095978}
+Faces not indexed:
+
+(base) E:\Reko-master\Searching Faces in a Collection\Adding Faces to a Collection 5>
+
+
+
+
+
+(base) E:\Reko-master\Searching Faces in a Collection\Adding Faces to a Collection 5>python CODE1.py
+Results for mod5.jpeg
+Faces indexed:
+ Face ID: 6460f7b3-333e-4cb3-9f32-640e15e564a5
+ Location: {'Width': 0.20777250826358795, 'Height': 0.533635139465332, 'Left': 0.3883671760559082, 'Top': 0.09277679026126862}
+Faces not indexed:
+
+(base) E:\Reko-master\Searching Faces in a Collection\Adding Faces to a Collection 5>
